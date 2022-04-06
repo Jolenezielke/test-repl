@@ -26,3 +26,18 @@ class Person:
     else:
       self.current_food -= 1
       print("run run run")
+
+class pants:
+  def 
+  __init__(waistsize,length,color):  
+  self.waistsize
+  self.lenght
+  self.color
+
+class shirt: 
+  def
+  __init__(color, numButtons, isShortSleeve, hasCollar):
+  self.color
+  self.numButtons
+  self.isShortSleeve
+  self.hasCollar
